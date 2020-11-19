@@ -561,5 +561,6 @@ color: var(--primary-text-color);
 }
 
 .header {
+    
     border-bottom: 1px solid #ECECEC;
 }
