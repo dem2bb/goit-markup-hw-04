@@ -364,7 +364,7 @@ align-content: center;
 }
 .clients-item {
     fill: #AFB1B8;
-;
+
 }
 .clients-link:hover svg,
 .clients-link:hover,
@@ -376,7 +376,6 @@ align-content: center;
 .clients-link:focus {
     border: 1px solid #2196F3;
 }
-
 
 /*----------------------------FOOTER---------------------------- */
 .logo-footer {
@@ -472,9 +471,6 @@ align-content: center;
     margin-right: 10px;
 }
 
-
-
-
 /*----------------------------BUTTON----------------------------*/
 button {
     font-family: inherit;
@@ -564,3 +560,6 @@ color: var(--primary-text-color);
     padding: 20px 24px;
 }
 
+.header {
+    border-bottom: 1px solid #ECECEC;
+}
